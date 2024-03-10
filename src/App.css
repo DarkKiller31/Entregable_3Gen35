@@ -4,7 +4,14 @@
 .app_image {
   height: 100%;
   max-height: 350px;
+  min-height: 200px;
   object-fit: cover;
+}
+.app__error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #062226df;
 }
 .container__resident {
   display: flex;
