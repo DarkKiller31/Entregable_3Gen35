@@ -2,8 +2,8 @@
 /* ---- RESET ---- */
 html {
   font-family: "Hind", sans-serif;
-  /* background-color: #061307; */
   background-image: url("./fondo.jpg");
+  background-color: #061307;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
