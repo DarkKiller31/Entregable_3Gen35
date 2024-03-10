@@ -1,0 +1,14 @@
+.app {
+  color: white;
+}
+.app_image {
+  height: 100%;
+  max-height: 350px;
+  object-fit: cover;
+}
+.container__resident {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5em;
+}
