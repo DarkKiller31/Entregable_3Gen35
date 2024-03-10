@@ -34,7 +34,7 @@ const ResidentCard = ({ url }) => {
           </li>
           <li className="resident__item">
             <span className="resident__label">Episodes where appear</span>
-            <span className="resident__value">{character?.episode.lenght}</span>
+            <span className="resident__value">{character?.episode.length}</span>
           </li>
         </ul>
       </section>
